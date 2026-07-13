@@ -5,6 +5,7 @@ All my leetcode questions are here.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Devanshgulia/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Devanshgulia/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/Devanshgulia/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Design
@@ -28,4 +29,8 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Devanshgulia/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Devanshgulia/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
