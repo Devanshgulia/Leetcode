@@ -37,6 +37,7 @@ All my leetcode questions are here.
 | [0042-trapping-rain-water](https://github.com/Devanshgulia/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshgulia/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Devanshgulia/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Devanshgulia/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,9 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Devanshgulia/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Devanshgulia/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Devanshgulia/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Devanshgulia/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
