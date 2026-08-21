@@ -17,6 +17,7 @@ All my leetcode questions are here.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Devanshgulia/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Devanshgulia/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/Devanshgulia/Leetcode/tree/main/0901-online-stock-span/) | Medium |
@@ -41,6 +42,7 @@ All my leetcode questions are here.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Devanshgulia/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
@@ -52,6 +54,7 @@ All my leetcode questions are here.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -82,4 +85,8 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
