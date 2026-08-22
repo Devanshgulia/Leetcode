@@ -8,6 +8,7 @@ All my leetcode questions are here.
 | [0020-valid-parentheses](https://github.com/Devanshgulia/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Devanshgulia/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshgulia/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0155-min-stack](https://github.com/Devanshgulia/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Devanshgulia/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Devanshgulia/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -18,6 +19,7 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/Devanshgulia/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Devanshgulia/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Devanshgulia/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/Devanshgulia/Leetcode/tree/main/0901-online-stock-span/) | Medium |
