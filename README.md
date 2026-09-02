@@ -37,6 +37,7 @@ All my leetcode questions are here.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Devanshgulia/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Devanshgulia/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshgulia/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Devanshgulia/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -66,6 +67,7 @@ All my leetcode questions are here.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Devanshgulia/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Devanshgulia/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Devanshgulia/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -105,6 +107,7 @@ All my leetcode questions are here.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Devanshgulia/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Devanshgulia/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Devanshgulia/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
