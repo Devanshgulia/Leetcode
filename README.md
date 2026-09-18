@@ -65,6 +65,7 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devanshgulia/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Devanshgulia/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/Devanshgulia/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/Devanshgulia/Leetcode/tree/main/0394-decode-string/) | Medium |
 ## Linked List
@@ -80,6 +81,7 @@ All my leetcode questions are here.
 | [0018-4sum](https://github.com/Devanshgulia/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Devanshgulia/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Devanshgulia/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Devanshgulia/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
