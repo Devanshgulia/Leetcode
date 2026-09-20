@@ -4,12 +4,20 @@ public:
         int n = s.size();
         int m = part.size();
 
-        int idx = s.find(part);
+        string ans = "";
 
-        while (idx != string::npos) {
-            s.erase(idx, m);
-            idx = s.find(part);
+        for (int i = 0; i < s.size(); i++) {
+
+            // add current character to ans
+            ans.push_back(s[i]);
+
+            if (ans.size() >= m && ans.substr(ans.size() - m, m) == part) {
+                // Remove the last m characters
+                for (int i = 0; i < m; i++) {
+                    ans.pop_back();
+                }
+            }
         }
-        return s;
+        return ans;
     }
 };
