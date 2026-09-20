@@ -75,6 +75,7 @@ All my leetcode questions are here.
 | [0394-decode-string](https://github.com/Devanshgulia/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Devanshgulia/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devanshgulia/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devanshgulia/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshgulia/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
