@@ -49,6 +49,7 @@ All my leetcode questions are here.
 | [0088-merge-sorted-array](https://github.com/Devanshgulia/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Devanshgulia/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Devanshgulia/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Devanshgulia/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshgulia/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
@@ -158,6 +159,7 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Devanshgulia/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Devanshgulia/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,8 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devanshgulia/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/Devanshgulia/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Devanshgulia/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
