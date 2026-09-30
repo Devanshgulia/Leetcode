@@ -50,6 +50,7 @@ All my leetcode questions are here.
 | [0169-majority-element](https://github.com/Devanshgulia/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Devanshgulia/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devanshgulia/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Devanshgulia/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshgulia/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
@@ -160,6 +161,7 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Devanshgulia/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devanshgulia/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Devanshgulia/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +175,8 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devanshgulia/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Devanshgulia/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 <!---LeetCode Topics End-->
