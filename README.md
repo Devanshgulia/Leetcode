@@ -55,6 +55,7 @@ All my leetcode questions are here.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devanshgulia/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Devanshgulia/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshgulia/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devanshgulia/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ All my leetcode questions are here.
 | [0387-first-unique-character-in-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Devanshgulia/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Devanshgulia/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devanshgulia/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -187,4 +189,12 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Devanshgulia/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devanshgulia/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devanshgulia/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
