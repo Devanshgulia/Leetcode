@@ -64,6 +64,7 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devanshgulia/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Devanshgulia/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/Devanshgulia/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Devanshgulia/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -90,6 +91,7 @@ All my leetcode questions are here.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
@@ -101,6 +103,7 @@ All my leetcode questions are here.
 | [0042-trapping-rain-water](https://github.com/Devanshgulia/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Devanshgulia/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Devanshgulia/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/Devanshgulia/Leetcode/tree/main/0443-string-compression/) | Medium |
@@ -204,4 +207,8 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devanshgulia/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Devanshgulia/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
