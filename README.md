@@ -86,6 +86,7 @@ All my leetcode questions are here.
 | [0394-decode-string](https://github.com/Devanshgulia/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Devanshgulia/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Devanshgulia/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devanshgulia/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devanshgulia/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devanshgulia/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -189,6 +190,7 @@ All my leetcode questions are here.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devanshgulia/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/Devanshgulia/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Devanshgulia/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devanshgulia/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devanshgulia/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devanshgulia/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Ternary Search
