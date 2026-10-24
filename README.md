@@ -90,6 +90,7 @@ All my leetcode questions are here.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devanshgulia/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devanshgulia/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devanshgulia/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Devanshgulia/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -166,6 +167,7 @@ All my leetcode questions are here.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2409-count-days-spent-together](https://github.com/Devanshgulia/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
