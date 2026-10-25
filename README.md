@@ -51,6 +51,7 @@ All my leetcode questions are here.
 | [0169-majority-element](https://github.com/Devanshgulia/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Devanshgulia/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devanshgulia/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Devanshgulia/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devanshgulia/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Devanshgulia/Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -174,6 +175,7 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Devanshgulia/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Devanshgulia/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -222,4 +224,16 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Devanshgulia/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
