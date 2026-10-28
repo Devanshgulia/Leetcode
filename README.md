@@ -63,6 +63,7 @@ All my leetcode questions are here.
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devanshgulia/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Devanshgulia/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Devanshgulia/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Devanshgulia/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devanshgulia/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Devanshgulia/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,7 @@ All my leetcode questions are here.
 | [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devanshgulia/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Devanshgulia/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +232,7 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Devanshgulia/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Devanshgulia/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
