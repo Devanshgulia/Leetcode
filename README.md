@@ -100,6 +100,7 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Devanshgulia/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/Devanshgulia/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
@@ -112,6 +113,7 @@ All my leetcode questions are here.
 | [0016-3sum-closest](https://github.com/Devanshgulia/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Devanshgulia/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Devanshgulia/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Devanshgulia/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Devanshgulia/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Devanshgulia/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
