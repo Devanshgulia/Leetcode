@@ -99,6 +99,7 @@ All my leetcode questions are here.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Devanshgulia/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
@@ -120,6 +121,7 @@ All my leetcode questions are here.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Devanshgulia/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Devanshgulia/Leetcode/tree/main/0394-decode-string/) | Medium |
 ## Dynamic Programming
@@ -173,6 +175,7 @@ All my leetcode questions are here.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Devanshgulia/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Devanshgulia/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Matrix
