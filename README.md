@@ -104,6 +104,7 @@ All my leetcode questions are here.
 | [0142-linked-list-cycle-ii](https://github.com/Devanshgulia/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Devanshgulia/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +241,7 @@ All my leetcode questions are here.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devanshgulia/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
