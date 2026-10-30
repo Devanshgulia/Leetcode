@@ -8,6 +8,7 @@ All my leetcode questions are here.
 | [0020-valid-parentheses](https://github.com/Devanshgulia/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Devanshgulia/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshgulia/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Devanshgulia/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Devanshgulia/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Devanshgulia/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -243,6 +244,7 @@ All my leetcode questions are here.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Devanshgulia/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -260,4 +262,12 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devanshgulia/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
