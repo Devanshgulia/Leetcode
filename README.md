@@ -50,6 +50,7 @@ All my leetcode questions are here.
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshgulia/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Devanshgulia/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Devanshgulia/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Devanshgulia/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Devanshgulia/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devanshgulia/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -181,6 +182,7 @@ All my leetcode questions are here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Devanshgulia/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Devanshgulia/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Devanshgulia/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Devanshgulia/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Matrix
