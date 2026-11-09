@@ -10,6 +10,7 @@ All my leetcode questions are here.
 | [0084-largest-rectangle-in-histogram](https://github.com/Devanshgulia/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Devanshgulia/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Devanshgulia/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Devanshgulia/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -252,6 +253,7 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Devanshgulia/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Devanshgulia/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Devanshgulia/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -278,6 +280,7 @@ All my leetcode questions are here.
 | [0094-binary-tree-inorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Devanshgulia/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -285,6 +288,7 @@ All my leetcode questions are here.
 | [0094-binary-tree-inorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Devanshgulia/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Devanshgulia/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
