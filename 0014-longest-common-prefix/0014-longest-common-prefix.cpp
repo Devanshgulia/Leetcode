@@ -6,8 +6,7 @@ public:
         if (strs.empty() || strs[0].empty()) return "";
 
         string pre = ""; 
-        stack<char> s;
-        s.push(strs[0][0]);
+
         int idx = 0;
         size_t maxl = strs[0].size();
 
@@ -16,14 +15,14 @@ public:
         }
 
         for(int j=0;j<maxl;j++){
-            s.push(strs[0][idx]);
+            char ch = strs[0][idx];
             for(int i=1;i<n;i++){
-               if(s.top() != strs[i][idx]){
+               if(ch != strs[i][idx]){
                     return pre;
                }
 
             }
-            pre+=s.top();
+            pre+=ch;
             idx++;
         }
         return pre;
