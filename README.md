@@ -102,6 +102,7 @@ All my leetcode questions are here.
 | [0567-permutation-in-string](https://github.com/Devanshgulia/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devanshgulia/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devanshgulia/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devanshgulia/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Devanshgulia/Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -155,6 +156,7 @@ All my leetcode questions are here.
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devanshgulia/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Devanshgulia/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Devanshgulia/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
